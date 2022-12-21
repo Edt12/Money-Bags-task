@@ -7,6 +7,6 @@ Main Features
 
 Counts Money
 
-East to use
-
+Easy to use
+Screenshot of Program
 ![image](https://user-images.githubusercontent.com/104518243/208884154-3d7eef3e-7d69-424f-b6e1-afd98670070d.png)
