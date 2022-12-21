@@ -25,6 +25,8 @@ while True:
             else:
                 coinType = input("Please type in either,1p,2p,5p,10p,50p,£1 or £2")
         # creating a file to keep track of how many times the program runs
+        Log = open("log.txt", "w")
+        Log.write("0")
         Log = open("log.txt", "r")
 
         countString = Log.readline(1)
