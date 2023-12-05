@@ -1,4 +1,4 @@
-# Money-Bask-task
+# Money-Bags-task
 A Task I did for computer Science to count money 
 This program counts money in bags ,it takes the weight and what type of coins in the bag and tells the user how many coins there are in the bag,
 it does this as it has standard measurements for all british money and it usses this to calculate how many coins there are.
